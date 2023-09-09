@@ -1,0 +1,100 @@
+@media only screen and (min-width:0px) and (max-width:756px) {
+
+    .navbar-brand img {
+        width: 161px;
+        height: 40px;
+    }
+
+    .backgond {
+        background: url(../img/download.svg) center center;
+        background-size: 500% 100%;
+        background-color: #007bb9;
+        border-bottom: 1px solid rgba(255, 255, 255, 0);
+        padding-top: 17px !important;
+    }
+
+    .award h1 {
+        font-size: 25px;
+    }
+
+    .slider1 {
+        padding: 0px !important;
+        padding-bottom: 40px !important;
+    }
+
+    .carousel-item img {
+        width: 234px;
+        height: 234px;
+    }
+
+    .nonono {
+        padding: 0px !important;
+    }
+
+    .india {
+        font-size: 25px;
+    }
+
+    .quick input {
+        width: 254px;
+    }
+
+    .quick textarea {
+        width: 254px;
+    }
+
+    .for {
+        font-size: 25px;
+    }
+
+    .our {
+        font-size: 25px;
+    }
+
+    .you {
+        font-size: 25px;
+    }
+
+    .why {
+        font-size: 25px;
+    }
+
+    .univcity {
+        font-size: 25px;
+        font-weight: 800;
+        text-align: center;
+    }
+
+    .countries {
+        font-size: 25px;
+    }
+
+    iframe {
+        width: 250px;
+        height: 150px;
+    }
+
+    .video {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    textarea{
+        width: 230px;
+    }
+    .navbar-nav{
+        height: 100vh;
+        overflow-y:scroll;
+    }
+    .footer1{
+        font-weight:200;
+    }
+    .whataap{
+        display: none;
+    }
+    .info{
+        display: block !important;
+    }
+    .sop1{
+        width: 80%;
+    }
+}
